@@ -56,4 +56,4 @@ while True:
                                 maps[y+1][x-1] = 0
                                 temp += [[y+1, x-1]]
                     spots = temp
-    print('count:',count)
+    print(count)
